@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mas'ud
 - 👀 I’m interested in Native mobile development, Android and iOS
-- 🌱 I’m currently learning iOS development with Swift and SwiftUI
-- 💞️ I’m looking to collaborate on Android and iOS projects
 - 📫 You can reach me on masudonikeku@gmail.com
 
 <!---
